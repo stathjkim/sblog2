@@ -1,0 +1,13 @@
+---
+title: "세종대학교 블로그"
+author: "김현정"
+date: "2024-01-18"
+categories: [news, code, analysis]
+image: "lecture.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
