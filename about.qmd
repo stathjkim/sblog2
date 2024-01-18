@@ -17,3 +17,5 @@ about:
 ---
 
 About this blog
+
+소프트웨어 카펜트리 블로그그
